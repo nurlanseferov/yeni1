@@ -1,0 +1,256 @@
+* {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(158, 73, 45, 0.65)), to(rgba(47, 23, 15, 0.65))), url(https://startbootstrap.github.io/startbootstrap-business-casual/img/bg.jpg);
+  background-image: linear-gradient(rgba(158, 73, 45, 0.65), rgba(47, 23, 15, 0.65)), url(https://startbootstrap.github.io/startbootstrap-business-casual/img/bg.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.bir {
+  width: 100%;
+  padding: 2rem 0rem;
+}
+
+.bir .text {
+  text-align: center;
+  padding: 1rem o;
+  background-size: 0px;
+}
+
+.bir .text span {
+  background-size: 0px;
+}
+
+.bir .text span b {
+  font-size: 32px;
+  color: #e6a756;
+  background-size: 0px;
+}
+
+.bir .text span {
+  color: #ffffff;
+  font-size: 80px;
+  background-size: 0px;
+}
+
+.bir .links {
+  margin-top: 50px;
+  padding: 3rem 0rem;
+  background: none;
+  position: relative;
+  z-index: 34;
+}
+
+.bir .links .fon {
+  z-index: -1;
+  background: none;
+  background-color: #2f170fe6;
+  position: absolute;
+  top: 8px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.7;
+}
+
+.bir .links .link {
+  float: right;
+  float: left;
+  background-size: 0px;
+  width: 25%;
+}
+
+.bir .links .link .uc {
+  float: right;
+  background-size: 0px;
+}
+
+.bir .links .link .uc a {
+  color: #ffffff;
+  background-size: 0px;
+  font-size: 14.4px;
+  text-decoration: none;
+}
+
+.bir .links .link .dord {
+  float: right;
+  background-size: 0px;
+}
+
+.bir .links .link .dord a {
+  color: #ffffff;
+  background-size: 0px;
+  font-size: 14.4px;
+  text-decoration: none;
+}
+
+.bir .links .link .bes {
+  float: right;
+  margin-right: 60px;
+  background-size: 0px;
+}
+
+.bir .links .link .bes a {
+  color: #e6a756;
+  background-size: 0px;
+  font-size: 14.4px;
+  text-decoration: none;
+}
+
+.bir .links .link .iki {
+  float: right;
+  margin-left: 60px;
+  background-size: 0px;
+}
+
+.bir .links .link .iki a {
+  color: #ffffff;
+  background-size: 0px;
+  font-size: 14.4px;
+  text-decoration: none;
+}
+
+.sari {
+  background-image: none;
+  background-color: #e6a756;
+  padding: 25rem 0px;
+  position: relative;
+}
+
+.sari .il {
+  width: 50rem;
+  height: 25rem;
+  background-image: none;
+  background-color: #ffffff;
+  border-radius: 10px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  background-image: none;
+}
+
+.sari .il ol {
+  width: 50rem;
+  height: 25rem;
+  text-decoration: underline;
+  background-image: none;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.sari .il ol li {
+  -webkit-transform: translateY(40px);
+          transform: translateY(40px);
+  margin-left: 80px;
+  text-decoration: underline;
+  -webkit-text-decoration-color: #e6a756;
+          text-decoration-color: #e6a756;
+  padding-bottom: 30px;
+  font-size: 20px;
+  background-image: none;
+}
+
+.sari .il ol li span {
+  text-decoration: underline;
+  -webkit-text-decoration-color: #e6a756;
+          text-decoration-color: #e6a756;
+  margin-right: 80px;
+  color: #212529;
+  background-image: none;
+  font-size: 20px;
+  float: right;
+}
+
+.sari .il b {
+  margin-left: 20rem;
+  color: #212529;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  background-image: none;
+  font-size: 16px;
+}
+
+.sari .il span {
+  margin-left: 15rem;
+  color: #212529;
+  background-image: none;
+  font-size: 48px;
+}
+
+.img {
+  margin-bottom: 160px;
+  text-align: center;
+  background-image: none;
+  position: relative;
+}
+
+.img img {
+  height: 30rem;
+  margin-top: 10rem;
+  margin-bottom: 10rem;
+  background-image: none;
+  width: 75%;
+}
+
+.img .textson {
+  padding-top: 60px;
+  background-color: #ffffff;
+  background-image: none;
+  height: 20rem;
+  width: 50rem;
+  border-radius: 15px;
+  position: absolute;
+  top: 35rem;
+  left: 18rem;
+}
+
+.img .textson b {
+  color: #212529;
+  background-image: none;
+  font-size: 16px;
+}
+
+.img .textson span {
+  color: #212529;
+  background-image: none;
+  font-size: 48px;
+}
+
+.img .textson p {
+  color: #212529;
+  background-image: none;
+  font-size: 16px;
+}
+
+.son {
+  z-index: 34;
+  margin-top: 80px;
+  text-align: center;
+  padding: 2rem 0;
+  position: relative;
+  background-image: none;
+}
+
+.son p {
+  color: #ffffff4d;
+  font-size: 12.8px;
+  background-image: none;
+}
+
+.son .fonbir {
+  z-index: -55;
+  background-color: rgba(47, 23, 15, 0.9);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: none;
+}
+/*# sourceMappingURL=store.css.map */
